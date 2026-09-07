@@ -39,7 +39,8 @@
 
 ---
 <p align="center">
-  <img width="266" height="100" alt="images"src="https://github.com/user-attachments/assets/6ed037aa-751c-4047-b54e-68703f6a95ba" />
+ <img width="792" height="612" alt="image" src="https://github.com/user-attachments/assets/88be0e27-64cc-468f-9175-39fdc2c4d32e" />
+
 
 
 
