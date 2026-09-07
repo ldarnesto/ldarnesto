@@ -8,6 +8,8 @@
 - 📚 I’m currently majoring in Communications
 - 🖊️ Concentration in Public Relations
 - 🍎 Minor in Digital Studies
+- Member of PRSSA
+- Based in New Jersey and Virginia 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Avid Tennis Player
 - Hoping to further a career in Public Relations or Sales!
@@ -30,10 +32,15 @@
 
 ---
 
-## How to Reach Me!
+## How to Reach Me! 📧 📲
 - Email: darnesls@dukes.jmu.edu (school)
 - Email: lildarnesto@gmail.com (personal)
 - LinkedIn: (https://www.linkedin.com/in/lily-darnesto-817b7b324/)
+
+---
+<p align="center">
+  <img width="266" height="100" alt="images"src="https://github.com/user-attachments/assets/6ed037aa-751c-4047-b54e-68703f6a95ba" />
+
 
 
 
