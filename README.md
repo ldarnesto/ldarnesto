@@ -1,9 +1,6 @@
 ## ✨ Hi there I'm Lily! ✨
-<p align="Left">
+<p align="Center">
   <img width="266" height="100" alt="images" src="https://github.com/user-attachments/assets/a1192c6a-889e-4a27-8ef6-481b00b4f669" />
- 
-  align="Right">
-  <img width="266" height="100" alt="43708422-1784-4A05-B8CE-0E3118D3FDF5_1_105_c" src="https://github.com/user-attachments/assets/86f07553-143e-4ea5-b39d-ba0a61bc86cd" />
 
 </p>
 Hi! I'm Lily Darnesto, a Junior Communications and PR Major at James Madison University!
@@ -19,6 +16,7 @@ Hi! I'm Lily Darnesto, a Junior Communications and PR Major at James Madison Uni
 - Based in New Jersey and Virginia 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Avid Tennis Player
+- 🫶 What I love: Going on Hikes, Spending Time with Friends and Family, and the Beach!
 - Hoping to further a career in Public Relations or Sales!
 
 ---
