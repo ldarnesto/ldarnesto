@@ -32,7 +32,9 @@
 
 ---
 ## Why Me?
+
 My combined major and minor allow me to blend communication theories and tactics into both the digital and personal world. Using my vast knowledge of communication studies and my new-found interest in digital studies, I am able to be a more well-rounded employee!
+
 ---
 
 ## How to Reach Me! 📧 📲
