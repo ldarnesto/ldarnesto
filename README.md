@@ -12,8 +12,8 @@ Hi! I'm Lily Darnesto, a Junior Communications and PR Major at James Madison Uni
 - 📚 I’m currently majoring in Communications
 - 🖊️ Concentration in Public Relations
 - 🍎 Minor in Digital Studies
-- Member of PRSSA
-- Based in New Jersey and Virginia 
+- 📑 Member of PRSSA
+- 🏠 Based in New Jersey and Virginia 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Avid Tennis Player
 - 🫶 What I love: Going on Hikes, Spending Time with Friends and Family, and the Beach!
@@ -43,8 +43,8 @@ My combined major and minor allow me to blend communication theories and tactics
 ---
 
 ## How to Reach Me! 📧 📲
-- Email: darnesls@dukes.jmu.edu (school)
-- Email: lildarnesto@gmail.com (personal)
+- Email: darnesls@dukes.jmu.edu (Educational)
+- Email: lildarnesto@gmail.com (Personal)
 - LinkedIn: (https://www.linkedin.com/in/lily-darnesto-817b7b324/)
 
 ---
