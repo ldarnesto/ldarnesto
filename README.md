@@ -1,9 +1,7 @@
 ## Hi there 👋
-
-
-**ldarnesto/ldarnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<p align="center">
+  <img width="266" height="100" alt="images" src="https://github.com/user-attachments/assets/a1192c6a-889e-4a27-8ef6-481b00b4f669" />
+</p>
 
 - 🎓 I’m currently a student at James Madison University (2028)
 - 📚 I’m currently majoring in Communications
