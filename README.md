@@ -1,5 +1,5 @@
 ## ✨ Hi there I'm Lily! ✨
-<p align="center">
+<p align="Left">
   <img width="266" height="100" alt="images" src="https://github.com/user-attachments/assets/a1192c6a-889e-4a27-8ef6-481b00b4f669" />
 </p>
 Hi! I'm Lily Darnesto, a Junior Communications and PR Major at James Madison University!
