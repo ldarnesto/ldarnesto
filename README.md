@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/Public_Relations-8A2BE2?style=for-the-badge"/>
 
 ---
+## Why Me?
+My combined major and minor allow me to blend communication theories and tactics into both the digital and personal world. Using my vast knowledge of communication studies and my new-found interest in digital studies, I am able to be a more well-rounded employee!
+---
 
 ## How to Reach Me! 📧 📲
 - Email: darnesls@dukes.jmu.edu (school)
